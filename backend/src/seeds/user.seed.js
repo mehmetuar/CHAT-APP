@@ -4,6 +4,11 @@ import User from "../models/user.model.js";
 
 config();
 
+
+// BU DOSYA CALISMIYOR KULLANICILAR GELMEDI.
+
+
+
 const seedUsers = [
   // Female Users
   {
